@@ -1,5 +1,5 @@
 # SinhalaFontChanger
-Fix Ugly looking sinhala fonts in debian based linux distros and Fedora
+Fix Ugly looking sinhala fonts in most linux distros
 
 ### Usage
 download and extract the zip into home folder
