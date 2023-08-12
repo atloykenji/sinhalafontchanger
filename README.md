@@ -4,7 +4,7 @@ Fix Ugly looking sinhala fonts in debian based linux distros and Fedora
 ### Usage
 download and extract the zip into home folder
 
-and run;
+cd into folder and run;
 
 ```
 cd ~/sinhala-font-changer
